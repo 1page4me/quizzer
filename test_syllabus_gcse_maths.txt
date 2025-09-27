@@ -1,0 +1,38 @@
+GCSE Mathematics Syllabus - Foundation and Higher Tier
+
+Unit 1: Number and Algebra
+- Number operations and properties
+- Fractions, decimals, and percentages
+- Ratio and proportion
+- Algebraic expressions and equations
+- Sequences and graphs
+- Linear equations and inequalities
+
+Unit 2: Geometry and Measures
+- Properties of shapes and angles
+- Transformations (reflection, rotation, translation)
+- Pythagoras' theorem and trigonometry
+- Area and volume calculations
+- Circle geometry and theorems
+- Coordinate geometry
+
+Unit 3: Statistics and Probability
+- Data collection and representation
+- Measures of central tendency and spread
+- Probability theory and tree diagrams
+- Cumulative frequency and box plots
+- Scatter graphs and correlation
+- Sampling methods
+
+Assessment Objectives:
+AO1: Use and apply standard techniques (50%)
+AO2: Reason, interpret and communicate mathematically (25%) 
+AO3: Solve problems within mathematics and other contexts (25%)
+
+Key Topics for Age 14-16:
+- Quadratic equations and graphs
+- Simultaneous equations
+- Indices and surds
+- Trigonometric ratios
+- Statistical distributions
+- Geometric proof
